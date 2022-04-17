@@ -1,0 +1,96 @@
+{
+  "flats": [
+    {
+      "id": 1,
+      "flat_name": "Nilgiri",
+      "flatType": "Owner",
+      "block": "A",
+      "No": 1,
+      "imageUrl": "https://images.unsplash.com/photo-1629371997433-d11e6161a8b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YXBwYXJ0bWVudCUyMGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "flat_name": "Udaygiri",
+      "flatType": "Owner",
+      "block": "B",
+      "No": 2,
+      "imageUrl": "https://images.unsplash.com/photo-1649513726980-49edfb298b46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YXBwYXJ0bWVudCUyMGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "flat_name": "Himayala",
+      "flatType": "Tenant",
+      "block": "A",
+      "No": 3,
+      "imageUrl": "https://images.unsplash.com/photo-1550597210-81f4ee341ba4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGFwcGFydG1lbnQlMjBob3VzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 4,
+      "flat_name": "Kaveri",
+      "flatType": "Owner",
+      "block": "C",
+      "No": 4,
+      "imageUrl": "https://media.istockphoto.com/photos/modern-luxury-apartments-picture-id182930468?b=1&k=20&m=182930468&s=170667a&w=0&h=vvPTGxEdlZLGkwCtWuGATlqx3qbTxEe5mMHB2QWVFQE="
+    },
+    {
+      "id": 5,
+      "flat_name": "Narmada",
+      "flatType": "Tenant",
+      "block": "C",
+      "No": 5,
+      "imageUrl": "https://media.istockphoto.com/photos/row-of-colorful-red-yellow-blue-white-green-painted-residential-picture-id857082594?b=1&k=20&m=857082594&s=170667a&w=0&h=1KbYVG4O-htqEET5I8G55DwiCZ5h-Y5UF5ox8mJv2yI="
+    },
+    {
+      "id": 6,
+      "flat_name": "Krishna",
+      "flatType": "Owner",
+      "block": "B",
+      "No": 6,
+      "imageUrl": "https://media.istockphoto.com/photos/gated-community-houses-with-palms-south-florida-picture-id902803740?b=1&k=20&m=902803740&s=170667a&w=0&h=wDUxVXWySWz74LuN-4_xC7xL8yh9Q0KpM1yVzaz8sWk="
+    }
+  ],
+  "residents": [
+    {
+      "id": 1,
+      "name": "Rana",
+      "age": 24,
+      "gender": "M",
+      "flat_name": "Udaygiri"
+    },
+    {
+      "id": 2,
+      "name": "Madan",
+      "age": 40,
+      "gender": "M",
+      "flat_name": "Udaygiri"
+    },
+    {
+      "id": 3,
+      "name": "Sunil",
+      "age": 34,
+      "gender": "M",
+      "flat_name": "Himayala"
+    },
+    {
+      "id": 4,
+      "name": "Ramlal",
+      "age": 50,
+      "gender": "M",
+      "flat_name": "kaveri"
+    },
+    {
+      "id": 5,
+      "name": "Cheeku",
+      "age": 22,
+      "gender": "F",
+      "flat_name": "Krishna"
+    },
+    {
+      "id": 6,
+      "name": "Govind",
+      "age": 24,
+      "gender": "M",
+      "flat_name": "Kaveri"
+    }
+  ]
+}

@@ -3,9 +3,10 @@ const mongoose = require("mongoose");
 const flatSchema = new mongoose.Schema(
   {
     flat_name: { type: String, required: true },
-    flatType: { type: String, enum: ["Owner", "Tenant"] },
-    block: { type: String, enum: ["A", "B", "C", "D"] },
+    flatType: { type: String, required: true  },
+    block: { type: String, required: true  },
     No: { type: Number, required: true },
+    imageUrl: { type: String, required: true}
   },
   {
     versionKey: false,
